@@ -1,8 +1,8 @@
-# Advanced Chat Application
+# Multi User Chat Application
 
 It is a real-time application built using the MERN stack. It provides users with a seamless and interactive chatting experience.
 
-## Features
+# Features
 
 - Real-time Messaging: Users can chat with each other in real time, sending and receiving messages instantly without the need to refresh the page.
 
