@@ -34,7 +34,7 @@ The project is built using the MERN stack, which consists of the following techn
 
 To use the Chat App MERN, follow these steps:
 
-1. Clone the repository: git clone https://github.com/nikhip1/Multi-User-Chat-Application.git
+1. Clone the repository:  `git clone https://github.com/nikhip1/Multi-User-Chat-Application.git`
 2. Navigate to the project directory: `cd chat-app-mern`
 3. Install the dependencies: `npm install`
 4. Set up the environment variables:
